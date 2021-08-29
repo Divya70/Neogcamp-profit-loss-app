@@ -1,7 +1,44 @@
 body{
     text-align: center;
+    margin-top: 5rem;
+    background-color: black;
+    color: white;
 }
 label{
     display: block;
     padding-bottom: 1rem;
+    margin-bottom: 1rem;
+    font-size: 1.3rem;
+
 }
+input{
+    font-size: 1.5rem;
+    height: 5vh;
+    width: 25vw;
+    border-radius: 1.5rem;
+    text-align: center;
+    background-color: #9FE2BF;
+    box-shadow: 2px 0px 2px px;
+}
+h1{
+    color: teal;
+}
+
+#submit-btn{
+    margin-bottom: 1.5rem;
+    padding: 0.7rem;
+    font-size: 1.5rem;
+    width: 18vw;
+    border-radius: 1.5rem;
+    background-color: #117A65;
+    text-align: center;
+    
+    
+}
+
+#output{
+    font-size: 1.5rem;
+    font-weight: 0.5rem;
+    color: #DE3163;
+}
+
